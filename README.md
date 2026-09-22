@@ -2,7 +2,7 @@
 
 ## About This Project
 
-I completed this project for CS 620 at Old Dominion University. I worked with real-world U.S. airfare data to explore differences in airfare prices across cities and markets.
+I completed this project for CS 620 at Old Dominion University. I worked with real world U.S. airfare data to explore differences in airfare prices across cities and markets.
 
 The project gave me experience taking a dataset, preparing it for analysis, looking for patterns, and using visualizations to make the results easier to understand.
 
@@ -34,5 +34,11 @@ My analysis included:
 ## What I Learned
 
 This project gave me more experience working with a real-world dataset instead of data that was already prepared for analysis. I learned that cleaning and understanding the data first is an important part of the analysis process.
+
+## Project Presentation
+
+As part of the project, I also created a video presentation explaining my analysis, visualizations, and findings.
+
+[Watch my Airfare Pricing Trends & Demand Analysis presentation on YouTube](https://www.youtube.com/watch?v=I08dluEpudA)
 
 It also helped me become more comfortable using Python and Pandas for data analysis. Creating the visualizations showed me how much easier it can be to recognize and explain patterns when the results are presented visually instead of only looking at the raw numbers.
